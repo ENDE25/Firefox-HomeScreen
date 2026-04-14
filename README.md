@@ -6,7 +6,7 @@ Available for Firefox soon.
 
 <img width="1844" height="971" alt="image" src="https://github.com/user-attachments/assets/c56e4432-9d7f-43da-ac4b-8f3881b87530" />
 
----
+
 
 ## Features
 
