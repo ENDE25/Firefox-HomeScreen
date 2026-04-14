@@ -1,6 +1,6 @@
 # HomeScreen
 
-A browser extension that replaces the new tab page with a clean, customizable dashboard. Built with vanilla HTML, CSS, and JavaScript — no dependencies, no build step.
+A browser extension that replaces the new tab page with a clean, customizable dashboard. Built with vanilla HTML, CSS, and JavaScript.
 
 Available for Firefox soon. Right now it can be installed from [this link](https://addons.mozilla.org/firefox/downloads/file/4765378/7c58e3dbbd11477ca6ae-1.0.xpi)
 
